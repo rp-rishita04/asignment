@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "category": "Dapps",
+      "name": "PolyJunk",
+      "description": "PolyJunk is a decentralized application (DApp) built on the Polygon blockchain. It allows users to trade digital collectibles.",
+      "url": "https://polyjunk.com/"
+    },
+    {
+      "category": "DeFi",
+      "name": "PolySwap",
+      "description": "PolySwap is a decentralized exchange (DEX) on the Polygon network, allowing users to swap various tokens with low fees and fast transactions.",
+      "url": "https://polyswap.io/"
+    },
+    {
+      "category": "Layer 2 Scaling",
+      "name": "Polygon",
+      "description": "Polygon (previously Matic Network) is a Layer 2 scaling solution for Ethereum, aiming to provide faster and cheaper transactions.",
+      "url": "https://polygon.technology/"
+    }
+  ]
+}
