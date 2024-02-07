@@ -1,0 +1,11 @@
+{
+  "name": "Polygon",
+  "symbol": "MATIC",
+  "website": "https://polygon.technology/",
+  "coinmarketcap_url": "https://coinmarketcap.com/currencies/polygon/",
+  "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+  "current_price": $0.7944,
+  "market_cap": 7,632,734,661,
+  "circulating_supply": 9,610,751,486 MATIC,
+  "total_supply": 10,000,000,000 MATIC
+}
